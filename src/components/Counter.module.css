@@ -29,7 +29,13 @@
   outline: 0;
   border: 2px solid #e1e1e1;
   background-color: transparent;
-  padding: 10px;
+  padding: 8px 15px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.counter button:not(:last-child) {
+  margin-right: 10px;
 }
 
 .violet {

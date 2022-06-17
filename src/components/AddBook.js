@@ -24,7 +24,7 @@ const AddBook = () => {
 
   return (
     <div>
-      <h1>Add Book - Redux</h1>
+      <h1>Redux - Add/Remove Book</h1>
       <form onSubmit={formSubmitHandler} className={classes.form}>
         <input
           type="text"

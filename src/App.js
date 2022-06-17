@@ -9,6 +9,7 @@ import './style.css';
 export default function App() {
   return (
     <React.Fragment>
+      <h1 style={{ textAlign: 'center' }}>Combine Reducers</h1>
       <Counter />
       <div className={classes.books}>
         <AddBook />
