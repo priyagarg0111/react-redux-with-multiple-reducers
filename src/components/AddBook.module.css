@@ -1,0 +1,28 @@
+.form input {
+  padding: 10px 10px 10px 5px;
+  font-size: 16px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+.form input:focus {
+  outline: 0;
+  border-color: #ff6100;
+}
+
+.form button {
+  padding: 10px 20px;
+  margin: 0 0 0 1rem;
+  background: transparent;
+  outline: 0;
+  color: #ff6100;
+  text-transform: uppercase;
+  cursor: pointer;
+  box-shadow: none;
+  border: 2px solid #ff6100;
+}
+
+.form p {
+  margin: 2rem 0 0 0;
+}

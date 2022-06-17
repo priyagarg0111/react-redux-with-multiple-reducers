@@ -1,0 +1,23 @@
+.books {
+  text-align: center;
+  width: 40rem;
+  padding: 20px 30px 50px;
+  box-shadow: 0 0 10px #e1e1e1;
+  margin: 30px auto;
+}
+
+.books ul {
+  width: 20rem;
+  margin: 2rem auto;
+  padding: 0;
+  list-style: none;
+}
+
+.books ul li {
+  text-align: left;
+  padding: 10px;
+  background-color: #f8d8ce;
+  margin-bottom: 0.5rem;
+  cursor: pointer;
+  color: #4e4e4e;
+}
